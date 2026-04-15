@@ -1,7 +1,7 @@
 # Data-Science-Assignment
 # Trader Performance and Sentiment Analysis
 
-This repository contains a Jupyter Notebook (`trader_analysis.ipynb`) that explores the relationship between market sentiment (Fear & Greed Index) and individual trader performance and behavior. It includes data loading, cleaning, exploratory data analysis, trader segmentation, strategy recommendations, and a simple predictive model for next-day trader profitability.
+This repository contains a Jupyter Notebook (`Analysis_Notebook.ipynb`) that explores the relationship between market sentiment (Fear & Greed Index) and individual trader performance and behavior. It includes data loading, cleaning, exploratory data analysis, trader segmentation, strategy recommendations, and a simple predictive model for next-day trader profitability.
 
 ## Setup and How to Run
 
