@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook (`Analysis_Notebook.ipynb`) that exp
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <repository-url
 cd Data-Science-Assignment
 ```
 
